@@ -1,5 +1,5 @@
 # Machine learning (Supervised learning)
-## Spam-detector-with-Naive-Bayes
+## Spam-Detector-With-Naive-Bayes
 ### Our Mission
 Spam detection is one of the major applications of Machine Learning in the interwebs today. Pretty much all of the major email service providers have spam detection systems built in and automatically classify such mail as 'Junk Mail'.
 
